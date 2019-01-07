@@ -1,0 +1,9 @@
+[package]
+name = "rusoto-batch"
+version = "0.1.0"
+authors = ["κeen <3han5chou7@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rusoto_batch = "0.36.0"
+rusoto_core = "0.36.0"
